@@ -1,3 +1,0 @@
-C:/Users/excui/Documents/MEGA/CIS565/hw/ray_tracing/ray_tracing/out/build/x64-Debug/CMakeFiles/ray_tracing.dir
-C:/Users/excui/Documents/MEGA/CIS565/hw/ray_tracing/ray_tracing/out/build/x64-Debug/CMakeFiles/edit_cache.dir
-C:/Users/excui/Documents/MEGA/CIS565/hw/ray_tracing/ray_tracing/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
